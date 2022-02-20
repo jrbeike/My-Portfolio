@@ -1,0 +1,22 @@
+/* Global CSS */
+:root {
+    --secondary-color: #0b1b38;
+    --tertiary-color: #1b225ffa;
+    --primary-color: #ffffffb3;
+    font-family:'Courier New', Courier, monospace;
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: xxx-large;
+  }
+  /* Global CSS ends */
+
+  body {
+    color: var(--secondary-color);
+  }
