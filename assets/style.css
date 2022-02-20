@@ -176,7 +176,8 @@
     color: var(--secondary-color);
   } 
 
-  .contact-me a:hover, a:active {
+  .contact-me a:hover, 
+  a:active {
   text-decoration: underline;
   color: var(--tertiary-color);
 }
@@ -225,7 +226,7 @@
 
   /*add URLS*/
   #robot-fight{
-    background-image: url("");
+    background-image: url("../assets/images/robot-fight.png");
     grid-column: 1 / 3;
     grid-row: 1 / 3;
     height: 100%;
@@ -242,4 +243,13 @@
   #coming-soon {
     background-image: url("");
   }
-  
+
+  footer {
+    background-color: var(--secondary-color);
+    padding: 40px 35px;
+    text-align: center;
+    color: var(--tertiary-color);
+  }
+  #resume .content {
+     justify-content: center;
+  }
