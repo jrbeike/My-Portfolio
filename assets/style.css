@@ -226,7 +226,7 @@
 
   /*add URLS*/
   #robot-fight{
-    background-image: url("../assets/images/robot-fight.png");
+    background-image: url("../assets/images/robot-fight.jpg");
     grid-column: 1 / 3;
     grid-row: 1 / 3;
     height: 100%;
@@ -237,7 +237,7 @@
   }
   
   #run-buddy {
-    background-image: url("");
+    background-image: url("../assets/images/rub-buddy.jpg");
   }
   
   #coming-soon {
