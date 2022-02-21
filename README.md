@@ -3,8 +3,6 @@
 ![](assets/images/Screenshot-2022-02-20-193015.jpg)
 
 ## Table of Contents
-
-  - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
