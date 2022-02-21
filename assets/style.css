@@ -181,7 +181,7 @@
   text-decoration: underline;
   color: var(--tertiary-color);
 }
-
+/*portfolio*/
 .portfolio-grid-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
