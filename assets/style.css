@@ -250,17 +250,4 @@
     text-align: center;
     color: var(--tertiary-color);
   }
-  .resume {
-        text-align: center;
-        flex: 2 75%;
-        font-size: larger;
-        padding-left: 20pt;
-        padding-right: 80pt;
-  }
-  #resume {
-    text-align: center;
-    flex: 2 75%;
-    font-size: larger;
-    padding-left: 20pt;
-    padding-right: 80pt;
-  }
+ 
